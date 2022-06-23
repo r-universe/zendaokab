@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "msaeRB"]
+	path = msaeRB
+	url = https://github.com/zendaokab/msaerb
+	shallow = true
+	registered = true
